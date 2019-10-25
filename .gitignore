@@ -1,0 +1,5 @@
+# Project exclude paths
+/mainRunner/target/
+/out/
+/project/project/target/
+/project/target/
